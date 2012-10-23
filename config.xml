@@ -41,6 +41,16 @@ Near: Torremirona - Peralada - Golf,
 	<gap:splash src="images/startuplandscape.png" width="1024" height="768" />
 	<gap:splash src="images/startuportrait.png" width="768" height="1024" />
 
+        <gap:splash src="images/startup.png" gap:platform="android" gap:density="ldpi"/>
+	<gap:splash src="images/startup2x.png"gap:platform="android" gap:density="mdpi"  />
+	<gap:splash src="images/startuplandscape.png"  gap:platform="android" gap:density="hdpi"  />
+	<gap:splash src="images/startuportrait.png" gap:platform="android" gap:density="xhdpi"  />
+
+
+
+
+
+
 <preference name="permissions" value="none"/>
 <access origin="*" /> 
 
