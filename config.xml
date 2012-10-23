@@ -5,16 +5,19 @@
         versionCode     = "2" 
 	version 	= "1.0.0">
 
-	<name>Mas Falgarona Hotel Relais</name>
+	<name>MasFalgarona</name>
 
-	<description>
-		App del Hotel Relais Mas Falgarona - 
-               
-                
-	</description>
+<description>Mas Falgarona App.
+Mas Falgarona is a Four Stars Hotel Relais in
+Spain > Girona > Costa Brava > Emporda > Figueres > *Avinyonet
+Near: Torremirona - Peralada - Golf, 
+       Empuriabrava Airport -Sky Dive - Wind Tunnel,
+       Roses - Llança - Empuriabrava  Beach,
+       Figueres - Pubol - Cadaques - Dali Museum's.
+</description>
 
 	<author href="http://i-solucions.com"	email="email@i-solucions.com">
-		Miguel Pin
+		M./J.L.>Pin>Toral
 	</author>
 
 	<preference name="phonegap-version" value="1.8.1" />
